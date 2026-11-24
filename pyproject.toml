@@ -5,7 +5,8 @@ description = "Enrutamiento energéticamente eficiente en Redes de Sensores Inal
 readme = "README.md"
 authors = [
   { name = "Terrapin", email = "freq.modulada@gmail.com" },
-  { name = "El-Ronin", email = "mfernandezv@usm.cl" },
+  { name = "El-Ronin", email = "mfernandezv@usm.cl" }
+  { name = "Luis-Sarzuri", email = "lsarzuri@usm.cl" },
 ]
 requires-python = ">=3.11"
 dependencies = [
