@@ -4,7 +4,8 @@ version = "0.1.0"
 description = "Enrutamiento energéticamente eficiente en Redes de Sensores Inalámbricos (WSN) - Entrega Final ELI148"
 readme = "README.md"
 authors = [
-    { name = "Terrapin", email = "freq.modulada@gmail.com" }
+  { name = "Terrapin", email = "freq.modulada@gmail.com" },
+  { name = "El-Ronin", email = "mfernandezv@usm.cl" },
 ]
 requires-python = ">=3.11"
 dependencies = [
